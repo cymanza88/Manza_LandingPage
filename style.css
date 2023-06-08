@@ -1,0 +1,16 @@
+body{
+    margin:0;
+    padding:0;
+}
+#Home{
+    height:715px;
+    background-color: royalblue;
+}
+#About{
+    height:715px;
+    background-color:crimson;
+}
+#Contact{
+    height:715px;
+    background-color: green;
+}
